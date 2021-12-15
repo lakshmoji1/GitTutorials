@@ -6,6 +6,12 @@ class Hello
     {
         println("in master")
     }
+
+    fun byMasterAgain()
+    {
+        println("in master again")
+    }
+
 }
 
 fun main()
