@@ -6,6 +6,12 @@ class Hello
     {
         println("in master")
     }
+
+    fun bylakshmoji()
+    {
+        println("in lakshmoji")
+    }
+
 }
 
 fun main()
