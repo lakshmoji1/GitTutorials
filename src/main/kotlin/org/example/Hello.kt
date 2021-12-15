@@ -7,9 +7,9 @@ class Hello
         println("in master")
     }
 
-    fun bylakshmoji()
+    fun byMasterAgain()
     {
-        println("in lakshmoji")
+        println("in master again")
     }
 
 }
